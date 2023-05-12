@@ -2,7 +2,9 @@
 
 Desktop:
 
-https://github.com/marioP2000/Bootstrap-Product-Landing-Page/assets/132082343/62cb9434-2a1a-41f6-8763-06c809620fd5
+
+
+https://github.com/marioP2000/Bootstrap-Product-Landing-Page/assets/132082343/f786e40d-9e75-4f28-b686-7a104a1d422d
 
 
 Mobile:
