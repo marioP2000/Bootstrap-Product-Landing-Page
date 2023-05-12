@@ -9,4 +9,4 @@ Desktop:
 
 Mobile:
 
-https://github.com/marioP2000/Bootstrap-Product-Landing-Page/assets/132082343/7bb3bd38-7168-41b1-91b0-5d80565b161f
+[https://github.com/marioP2000/Bootstrap-Product-Landing-Page/assets/132082343/7bb3bd38-7168-41b1-91b0-5d80565b161f](https://github.com/marioP2000/Bootstrap-Product-Landing-Page/assets/132082343/f714dd0d-e3ec-473c-8dd1-208c806259f7)
